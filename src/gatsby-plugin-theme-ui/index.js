@@ -7,4 +7,8 @@ export default {
     body: 'Space Mono, monospace',
     heading: 'Space Mono, monospace',
   },
+  styles: {
+    a: {
+    },
+  },
 }
